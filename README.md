@@ -48,6 +48,9 @@ To run this project, you will need to have Python and the required libraries ins
 * Python 3.x 🐍
 * folium 🗺️
 
+## Google Colab:
+https://colab.research.google.com/drive/1qx8JoZ9wcCdsxYCU2ADYlSRvf-lmJJRh?usp=sharing
+
 ## Screenshot 
 ![Screenshot 2025-01-30 124802](https://github.com/user-attachments/assets/2eb53872-f155-4bed-a191-f3bb9b819eda)
 
