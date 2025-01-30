@@ -35,7 +35,7 @@ A legend is included on the map to explain the color-coding scheme.
 
 To run this project, you will need to have Python and the required libraries installed.
 
-1. **Clone the repository (optional):** If you've downloaded this as a repository, you can clone it:  `git clone https://github.com/your_username/your_repository_name.git` (Replace with your actual repo details)
+1. **Clone the repository (optional):** If you've downloaded this as a repository, you can clone it:  `git clone https://github.com/ZeusDL/Interactivemap`
 2. **Install dependencies:**  install folium: `pip install folium`
 3. **Run the script:** Execute the Python script.
 
